@@ -34,7 +34,7 @@ app.UseHttpsRedirection();
 
 app.UseCors("AllowSpecificOrigin"); // Use CORS with the specified policy
 
-app.UseAuthorization;
+app.UseAuthorization();
 
 app.MapControllers();
 
