@@ -6,8 +6,8 @@ using Customer.Data;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-//builder.Services.AddControllers();
-//builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddControllers();
+builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddDbContext<ApiDbContext>(options => options.UseMySql(builder.Configuration.GetConnectionString("DefaultConnection"), new MySqlServerVersion(new Version())));
 builder.Services.AddSwaggerGen();
 
@@ -34,7 +34,7 @@ app.UseHttpsRedirection();
 
 app.UseCors("AllowSpecificOrigin"); // Use CORS with the specified policy
 
-app.UseAuthorization();
+app.UseAuthorization;
 
 app.MapControllers();
 
