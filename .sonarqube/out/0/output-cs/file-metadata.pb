@@ -1,0 +1,13 @@
+I
+@D:\Customer\CustomerManagement\Controllers\Customercontroller.csutf-8<
+3D:\Customer\CustomerManagement\Data\ApiDbContext.csutf-8J
+AD:\Customer\CustomerManagement\Migrations\20231226061924_check.csutf-8U
+JD:\Customer\CustomerManagement\Migrations\20231226061924_check.Designer.csutf-8Q
+FD:\Customer\CustomerManagement\Migrations\ApiDbContextModelSnapshot.csutf-8>
+5D:\Customer\CustomerManagement\Model\CustomerModel.csutf-82
+)D:\Customer\CustomerManagement\Program.csutf-82
+)D:\Customer\CustomerManagement\Startup.csutf-8^
+SD:\Customer\CustomerManagement\obj\Debug\net7.0\TrainerManagement.GlobalUsings.g.csutf-8i
+^D:\Customer\CustomerManagement\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.csutf-8\
+QD:\Customer\CustomerManagement\obj\Debug\net7.0\TrainerManagement.AssemblyInfo.csutf-8o
+dD:\Customer\CustomerManagement\obj\Debug\net7.0\TrainerManagement.MvcApplicationPartsAssemblyInfo.csutf-8

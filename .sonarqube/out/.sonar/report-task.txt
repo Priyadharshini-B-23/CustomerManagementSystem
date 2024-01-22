@@ -1,0 +1,6 @@
+projectKey=CustomerManagement---Sonar---Project
+serverUrl=http://localhost:9000
+serverVersion=9.9.0.65466
+dashboardUrl=http://localhost:9000/dashboard?id=CustomerManagement---Sonar---Project
+ceTaskId=AY0vZEesEnSVoPUu2Ltc
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AY0vZEesEnSVoPUu2Ltc
